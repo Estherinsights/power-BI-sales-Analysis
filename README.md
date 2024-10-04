@@ -12,6 +12,8 @@
 
 -[Data Analysis](#data-analysis)
 
+-[Visualization](#visualization)
+
 -[Key insights](#key-insights)
 
 -[Recommendations](#recommendations)
@@ -94,7 +96,37 @@ Are there any categories with lower profit margins?
      Profit Percentage = Profit / SUM(InputData[Total Buying Value])
      
 The steps above allowed us to calculate the Total Buying Value, Total Selling Value, and generate insightful measures like Profit and Profit Percentage for further analysis of the sales data.
+### Visualization
+---
+## Data Visualizations:
 
+1. KPI Cards: 
+   - Total Sales: 401K  
+   - Total Profit: 69K  
+   - Profit %: 21%
+
+2. Bar Chart: Monthly performance of sales and profits (2021 vs. 2022).
+
+3. Horizontal Bar Chart: Sales by product, with Product44 as the top product (23K).
+
+4. Donut Chart:Sales breakdown by Sales Type(49% Direct Sales).
+
+5. Line Chart:Daily sales trend.
+
+6. Donut Chart:Payment method breakdown (Cash vs. Online).
+
+7. KPI Cards:
+   - Top Product:Product44 (23K)  
+   - Top Category:Category04 (95K)
+     
+8. Treemap:Sales by category.
+   
+## Slicers:
+1. Sale Type Slicer
+2. Payment Mode Slicer
+3. Day Slicer
+4. Year Selection Slicer (2021, 2022)
+   
 ### key insights
 ---
 
@@ -127,8 +159,9 @@ The steps above allowed us to calculate the Total Buying Value, Total Selling Va
 ### **G. Daily Sales Trends**
 - Daily sales show an uneven pattern with some days significantly outperforming others.
 - This suggests varying customer engagement on different days of the month.
+  
+![WhatsApp Image 2024-10-05 at 00 16 10_be68ff07](https://github.com/user-attachments/assets/fd6295b2-5548-4f63-a76b-3360154c353a)
 
----
 
 ## Recommendations
 
