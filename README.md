@@ -126,7 +126,8 @@ The steps above allowed us to calculate the Total Buying Value, Total Selling Va
 2. Payment Mode Slicer
 3. Day Slicer
 4. Year Selection Slicer (2021, 2022)
-   
+   ![WhatsApp Image 2024-10-05 at 00 16 10_be68ff07](https://github.com/user-attachments/assets/fd6295b2-5548-4f63-a76b-3360154c353a)
+
 ### key insights
 ---
 
@@ -159,9 +160,6 @@ The steps above allowed us to calculate the Total Buying Value, Total Selling Va
 ### **G. Daily Sales Trends**
 - Daily sales show an uneven pattern with some days significantly outperforming others.
 - This suggests varying customer engagement on different days of the month.
-  
-![WhatsApp Image 2024-10-05 at 00 16 10_be68ff07](https://github.com/user-attachments/assets/fd6295b2-5548-4f63-a76b-3360154c353a)
-
 
 ## Recommendations
 
